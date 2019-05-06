@@ -1,0 +1,19 @@
+{
+  "name": "moltin-catalogue-upload-example",
+  "version": "1.0.0",
+  "description": "Scripts to create a Moltin store using a data file",
+  "main": "app.js",
+  "author": "George FitzGibbons",
+  "license": "MIT",
+  "dependencies": {
+    "@moltin/request": "^1.4.1",
+    "@moltin/sdk": "3.2.0",
+    "csv": "^4.0.0",
+    "csv-parser": "^2.1.0",
+    "dotenv": "^6.1.0",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
